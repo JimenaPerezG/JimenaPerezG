@@ -58,8 +58,8 @@ Seguir desarrollando mis habilidades técnicas, fortalecer mis conocimientos en 
 
 ### 📫 Contacto
 
-- GitHub: [@KillerQueen143](https://github.com/KillerQueen143)
-- LinkedIn: [Jimena Pérez](linkedin.com/in/jimena-pérez-4036142b1)
-- Email: [jime3011@gmail.com]
+- GitHub: https://github.com/KillerQueen143
+- LinkedIn: linkedin.com/in/jimena-pérez-4036142b1
+- Email: jime3011@gmail.com
 
 **Siempre aprendiendo, creando y resolviendo problemas.** 🚀
